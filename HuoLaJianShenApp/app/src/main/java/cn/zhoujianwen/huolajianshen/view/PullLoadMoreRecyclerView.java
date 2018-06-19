@@ -17,7 +17,7 @@ import cn.zhoujianwen.huolajianshen.R;
 
 
 /**
- * Created by jimmy on 15/12/15.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class PullLoadMoreRecyclerView extends LinearLayout {
     private RecyclerView mRecyclerView;

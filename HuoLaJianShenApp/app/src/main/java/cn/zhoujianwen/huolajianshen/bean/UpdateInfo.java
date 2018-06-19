@@ -1,7 +1,7 @@
 package cn.zhoujianwen.huolajianshen.bean;
 
 /**
- * Created by jimmy on 16/1/22.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class UpdateInfo {
 

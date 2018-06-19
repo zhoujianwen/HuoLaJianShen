@@ -15,7 +15,7 @@ import cn.zhoujianwen.huolajianshen.config.UserConfig;
 import cn.zhoujianwen.huolajianshen.utils.SharedPreferencesUtil;
 
 /**
- * Created by jimmy on 16/1/3.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class Helper {
 

@@ -1,7 +1,7 @@
 package cn.zhoujianwen.huolajianshen.base;
 
 /**
- * Created by jimmy on 15/12/14.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class BaseBean {
 

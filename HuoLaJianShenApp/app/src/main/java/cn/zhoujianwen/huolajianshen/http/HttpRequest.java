@@ -18,7 +18,7 @@ import cn.zhoujianwen.huolajianshen.utils.LogUtils;
 import cn.zhoujianwen.huolajianshen.utils.NetworkState;
 
 /**
- * Created by jimmy on 15/12/15.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class HttpRequest {
 

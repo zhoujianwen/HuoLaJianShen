@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by jimmy on 15/12/14.
+ * Created by zhoujianwen on 2018/04/01.
  */
 public abstract class BaseAdapter<T extends BaseBean, VH extends RecyclerView.ViewHolder> extends RecyclerView.Adapter {
     private List<T> data;

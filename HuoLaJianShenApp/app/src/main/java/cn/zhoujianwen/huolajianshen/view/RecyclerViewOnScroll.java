@@ -6,7 +6,7 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.StaggeredGridLayoutManager;
 
 /**
- * Created by jimmy on 15/12/15.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class RecyclerViewOnScroll extends RecyclerView.OnScrollListener {
     PullLoadMoreRecyclerView mPullLoadMoreRecyclerView;

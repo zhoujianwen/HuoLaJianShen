@@ -7,7 +7,7 @@ import com.android.volley.Response;
 import com.android.volley.toolbox.HttpHeaderParser;
 
 /**
- * Created by jimmy on 15/12/15.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class StringWithBomRequest extends Request<String> {
 

@@ -3,7 +3,7 @@ package cn.zhoujianwen.huolajianshen.view;
 import android.support.v4.widget.SwipeRefreshLayout;
 
 /**
- * Created by jimmy on 15/12/15.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public class SwipeRefreshLayoutOnRefresh implements SwipeRefreshLayout.OnRefreshListener {
     PullLoadMoreRecyclerView mPullLoadMoreRecyclerView;

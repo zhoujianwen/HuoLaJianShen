@@ -14,7 +14,7 @@ import butterknife.ButterKnife;
 import cn.zhoujianwen.huolajianshen.utils.LogUtils;
 
 /**
- * Created by jimmy on 15/12/29.
+ * * Created by zhoujianwen on 2018/04/01.
  */
 public abstract class BaseSectionAdapter<T extends BaseBean> extends RecyclerView.Adapter {
 
