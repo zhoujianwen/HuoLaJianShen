@@ -56,3 +56,4 @@ dependencies {
     compile files('libs/MobCommons-2016.0401.1602.jar')
     compile 'com.umeng.analytics:analytics:latest.integration'
 }
+

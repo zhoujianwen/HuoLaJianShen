@@ -42,7 +42,7 @@
 			搜狐随身看      https://open.sohu.com/
 			Flickr         http://www.flickr.com/services/
 			Pinterest      http://developers.pinterest.com/
-			Tumblr         http://www.tumblr.com/developers
+			Tumblr         http://www.tumblr.com/developerst
 			Dropbox        https://www.dropbox.com/developers
 			Instagram      http://instagram.com/developer#
 			VKontakte      http://vk.com/dev
@@ -55,8 +55,8 @@
     -->
     
     <ShareSDK 
-        AppKey = "f57790fff786"/> <!-- 修改成你在sharesdk后台注册的应用的appkey"-->
-    
+        AppKey = "267fcdbb5d72d"/> <!-- 修改成你在sharesdk后台注册的应用的appkey"-->
+	<!--default AppKey = "f57790fff786"-->
     <!-- ShareByAppClient标识是否使用微博客户端分享，默认是false -->
     <SinaWeibo
         Id="1"
