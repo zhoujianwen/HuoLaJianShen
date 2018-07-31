@@ -7,11 +7,11 @@ package cn.zhoujianwen.huolajianshen.config;
 public class API {
 
 
-    public static final String SERVER_URI = "http://39.108.113.63:8080/HuoLaJianShenServer/%s";
-    public static final String SERVER_DEBUG_URI = "http://39.108.113.63:8080/HuoLaJianShenServer/%s";
+    public static final String SERVER_URI = "http://192.168.0.10:8080/HuoLaJianShenServer/%s";
+    public static final String SERVER_DEBUG_URI = "http://192.168.0.10:8080/HuoLaJianShenServer/%s";
 
     public static final String SERVER_IMAGE_URL = "http://play.mengtta.com/";
-    public static final String DEBUG_SERVER_IMAGE_URL = "http://192.168.0.183/";
+    public static final String DEBUG_SERVER_IMAGE_URL = "http://192.168.0.10/";
 
     /*一：注册手机uuid*/
    public static final String REGISTER_UUID_URI ="UuidServlet";
